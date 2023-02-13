@@ -1,8 +1,8 @@
 //<![CDATA[
 var key = window.location.href.split("open/")[1].replace("/","")
 var urls={
- 'daftar':"https://www.xn--ptn188-wg8bpc.com/register?ref=JOGABBS0WFT",
- 'login':"https://www.xn--ptn188-wg8bpc.com/register?ref=JOGABBS0WFT",
+ 'daftar':"https://bit.ly/pendaftarantoto",
+ 'login':"https://bit.ly/kliklinks",
 }
 if(key){
  if(urls[key]){
